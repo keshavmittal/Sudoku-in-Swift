@@ -9,3 +9,4 @@ Functionalities Present:
 4. To get the Answer of the particular level , User has to click on show and the built in function will check which level is user playing and will show the answer.
 5. To check whether or not user has completed the puzzle, there is valid button. When user clicks on Valid button , function checks which level is user playing and        will match the currently filled grid with the answer and will display results respectively.
 6. We are not calling any function to check if user has completed the puzzle automatically. If all the values are filled because if user inputs some wrong value, the    pop-up displaying try again will come every time. This can annoy user. So Valid button is given , so user can check if they won or not based on their choices.
+   
